@@ -10,6 +10,10 @@ public class Test {
 		emp.setAddress("Kolhapur");
 		
 		System.out.println(emp);
+		
+		Address address=new Address();
+		address.setId(1);
+		address.setCity("Gadhinglaj");
 
 	}
 
