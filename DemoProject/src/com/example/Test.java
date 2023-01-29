@@ -15,6 +15,10 @@ public class Test {
 		address.setId(1);
 		address.setCity("Gadhinglaj");
 
+		if(10>0)
+		{
+			System.out.println("10 is greater than 0");
+		}
 	}
 
 }
